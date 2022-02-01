@@ -9,19 +9,20 @@ using System.Threading.Tasks;
 
 namespace DiscordBot.commands
 {
-   public class com : BaseCommandModule
+    public class com : BaseCommandModule
     {
         [Command("ping")]
-        [Description("returns pong")]
-        public async Task pong(CommandContext ctx)
+        [Description("returns ping")]
+        public async Task ping(CommandContext ctx)
         {
             await ctx.RespondAsync("pong!");
         }
 
         [Command("greet")]
+        [Description("says hello")]
         public async Task greet(CommandContext ctx, DiscordMember member)
         {
-          await  ctx.RespondAsync("hello" + member);
+            ctx.RespondAsync("hello");
         }
     }
 }

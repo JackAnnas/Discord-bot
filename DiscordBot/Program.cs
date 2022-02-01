@@ -1,7 +1,8 @@
 ﻿using System;
-using DiscordBot.commands;
 using DSharpPlus;
 using DSharpPlus.CommandsNext;
+using DSharpPlus.Entities;
+using DiscordBot.commands;
 
 namespace DiscordBot
 {
@@ -16,7 +17,7 @@ static void Main()
         {
             var discord = new DiscordClient(new DiscordConfiguration()
             {
-                Token = "OTM0NjU0MDA4ODA5OTE0NDM4.YezOYA.4vWe1UO77W4eZVfmyBZqPDvquNI",
+                Token = "<token>",
                 TokenType = TokenType.Bot,
                 Intents = DiscordIntents.AllUnprivileged,
             });
@@ -32,6 +33,7 @@ static void Main()
             });
 
             commands.RegisterCommands<com>();
+
 
             await discord.ConnectAsync();
             await Task.Delay(-1);
