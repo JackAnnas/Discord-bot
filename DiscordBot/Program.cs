@@ -34,9 +34,11 @@ static void Main()
 
             commands.RegisterCommands<com>();
 
-
-            await discord.ConnectAsync();
+           
+             await discord.ConnectAsync();
             await Task.Delay(-1);
+           
+            
         }
 
 

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1d7bc7af-314e-466c-8866-e9cbe5ee864b": {
+      "ProjectGuid": "1d7bc7af-314e-466c-8866-e9cbe5ee864b",
+      "DisplayName": "DiscordBot",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
