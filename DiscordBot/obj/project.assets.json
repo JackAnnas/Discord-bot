@@ -4266,11 +4266,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jackp\\source\\repos\\DiscordBot\\DiscordBot\\DiscordBot.csproj",
+      "projectUniqueName": "D:\\github\\DSharp Discord Bot\\Discord-bot\\DiscordBot\\DiscordBot.csproj",
       "projectName": "DiscordBot",
-      "projectPath": "C:\\Users\\jackp\\source\\repos\\DiscordBot\\DiscordBot\\DiscordBot.csproj",
+      "projectPath": "D:\\github\\DSharp Discord Bot\\Discord-bot\\DiscordBot\\DiscordBot.csproj",
       "packagesPath": "C:\\Users\\jackp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jackp\\source\\repos\\DiscordBot\\DiscordBot\\obj\\",
+      "outputPath": "D:\\github\\DSharp Discord Bot\\Discord-bot\\DiscordBot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

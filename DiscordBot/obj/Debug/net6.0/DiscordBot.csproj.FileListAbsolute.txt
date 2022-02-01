@@ -23,3 +23,28 @@ C:\Users\jackp\source\repos\DiscordBot\DiscordBot\obj\Debug\net6.0\DiscordBot.dl
 C:\Users\jackp\source\repos\DiscordBot\DiscordBot\obj\Debug\net6.0\ref\DiscordBot.dll
 C:\Users\jackp\source\repos\DiscordBot\DiscordBot\obj\Debug\net6.0\DiscordBot.pdb
 C:\Users\jackp\source\repos\DiscordBot\DiscordBot\obj\Debug\net6.0\DiscordBot.genruntimeconfig.cache
+D:\github\DSharp Discord Bot\Discord-bot\DiscordBot\bin\Debug\net6.0\DiscordBot.exe
+D:\github\DSharp Discord Bot\Discord-bot\DiscordBot\bin\Debug\net6.0\DiscordBot.deps.json
+D:\github\DSharp Discord Bot\Discord-bot\DiscordBot\bin\Debug\net6.0\DiscordBot.runtimeconfig.json
+D:\github\DSharp Discord Bot\Discord-bot\DiscordBot\bin\Debug\net6.0\DiscordBot.dll
+D:\github\DSharp Discord Bot\Discord-bot\DiscordBot\bin\Debug\net6.0\ref\DiscordBot.dll
+D:\github\DSharp Discord Bot\Discord-bot\DiscordBot\bin\Debug\net6.0\DiscordBot.pdb
+D:\github\DSharp Discord Bot\Discord-bot\DiscordBot\bin\Debug\net6.0\ConcurrentCollections.dll
+D:\github\DSharp Discord Bot\Discord-bot\DiscordBot\bin\Debug\net6.0\DSharpPlus.dll
+D:\github\DSharp Discord Bot\Discord-bot\DiscordBot\bin\Debug\net6.0\DSharpPlus.CommandsNext.dll
+D:\github\DSharp Discord Bot\Discord-bot\DiscordBot\bin\Debug\net6.0\DSharpPlus.Interactivity.dll
+D:\github\DSharp Discord Bot\Discord-bot\DiscordBot\bin\Debug\net6.0\Emzi0767.Common.dll
+D:\github\DSharp Discord Bot\Discord-bot\DiscordBot\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\github\DSharp Discord Bot\Discord-bot\DiscordBot\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\github\DSharp Discord Bot\Discord-bot\DiscordBot\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\github\DSharp Discord Bot\Discord-bot\DiscordBot\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\github\DSharp Discord Bot\Discord-bot\DiscordBot\obj\Debug\net6.0\DiscordBot.csproj.AssemblyReference.cache
+D:\github\DSharp Discord Bot\Discord-bot\DiscordBot\obj\Debug\net6.0\DiscordBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\DSharp Discord Bot\Discord-bot\DiscordBot\obj\Debug\net6.0\DiscordBot.AssemblyInfoInputs.cache
+D:\github\DSharp Discord Bot\Discord-bot\DiscordBot\obj\Debug\net6.0\DiscordBot.AssemblyInfo.cs
+D:\github\DSharp Discord Bot\Discord-bot\DiscordBot\obj\Debug\net6.0\DiscordBot.csproj.CoreCompileInputs.cache
+D:\github\DSharp Discord Bot\Discord-bot\DiscordBot\obj\Debug\net6.0\DiscordBot.csproj.CopyComplete
+D:\github\DSharp Discord Bot\Discord-bot\DiscordBot\obj\Debug\net6.0\DiscordBot.dll
+D:\github\DSharp Discord Bot\Discord-bot\DiscordBot\obj\Debug\net6.0\ref\DiscordBot.dll
+D:\github\DSharp Discord Bot\Discord-bot\DiscordBot\obj\Debug\net6.0\DiscordBot.pdb
+D:\github\DSharp Discord Bot\Discord-bot\DiscordBot\obj\Debug\net6.0\DiscordBot.genruntimeconfig.cache

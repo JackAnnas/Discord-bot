@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6yODNP2aH5zEqKA5ppNLqqFRV6ydornQsS4OFHOBdfB3BwQbF6/KqVZgoJz7zrc25dloGQp9AFVZCGhVi9Hfaw==",
+  "dgSpecHash": "xier/M7+jlK8bpczkY8QJozyG+X1/p1Ft1d89gEMItBUUzHkpXHmuktSVl7tsAnpq0Pe7xAmSdu6OCf+WYYQCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jackp\\source\\repos\\DiscordBot\\DiscordBot\\DiscordBot.csproj",
+  "projectFilePath": "D:\\github\\DSharp Discord Bot\\Discord-bot\\DiscordBot\\DiscordBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jackp\\.nuget\\packages\\concurrenthashset\\1.1.0\\concurrenthashset.1.1.0.nupkg.sha512",
     "C:\\Users\\jackp\\.nuget\\packages\\dsharpplus\\4.1.0\\dsharpplus.4.1.0.nupkg.sha512",
